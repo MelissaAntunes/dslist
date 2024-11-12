@@ -1,7 +1,6 @@
-package com.melmel.dslist.entites;
+package com.melmel.dslist.entities;
 
 import jakarta.persistence.*;
-
 import java.util.Objects;
 
 @Entity
