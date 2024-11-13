@@ -30,5 +30,6 @@ public class GameController {
         List<GameMinDTO> dto = gameService.findAll();
         return dto;
     }
+
 }
 
