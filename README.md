@@ -4,14 +4,14 @@ DSList is an back-end application that allows you search for a game, which was b
 ## Domain Model
 ![dslist-model](https://github.com/user-attachments/assets/6f4a0229-589e-40ba-8eb7-d6bcc59d4898)
 
-### Used Techonologies
+## Used Techonologies
 - Java
 - Spring Boot
 - H2 Database
 - PostgreSQL
 - Docker
 
-### Requirements to run the application
+## Requirements to run the application
 - Java 23
 - Clone the repository
 - Address to test the API: `(localhost:8080)`
